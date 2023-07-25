@@ -1,0 +1,29 @@
+
+        #cs{
+            height: 350px;
+            width: 350px;
+            border: 5px solid lightseagreen;
+            border-radius: 50%;
+            position: relative;
+            top: 100px;
+            box-shadow: 8px 8px 10px black ,-8px -8px 10px black, 8px 8px 10px red,-8px -8px 10px red; 
+            background-color: lightsteelblue
+            
+        }
+        .fon{
+            position: relative;
+            top: 40px;
+
+        }
+        #day{
+            color: brown;
+            font-size: 40px;
+        }
+        #date{
+            color:red;
+            font-size: 40px;
+        }
+        #time{
+            color: black;
+            font-size:40px ;
+        }
